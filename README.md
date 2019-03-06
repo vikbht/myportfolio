@@ -7,6 +7,10 @@ Trying my hand at using ReactJS and AWS for a serverless journey
 BREW
 Git and Github
 SSH
-Node
 AWS
+FontAwesome
+Google Fonts
+HTML
+CSS
+
 
